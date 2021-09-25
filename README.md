@@ -11,3 +11,6 @@ https://docs.microsoft.com/pt-br/sql/t-sql/language-elements/arithmetic-operator
 
 Operadores lógicos
 https://docs.microsoft.com/pt-br/sql/t-sql/language-elements/logical-operators-transact-sql?redirectedfrom=MSDN&view=sql-server-ver15
+
+Instruções DML
+https://docs.microsoft.com/pt-br/sql/t-sql/queries/queries?redirectedfrom=MSDN&view=sql-server-ver15
