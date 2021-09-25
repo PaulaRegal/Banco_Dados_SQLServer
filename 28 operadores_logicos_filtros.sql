@@ -4,6 +4,11 @@ USE NORTHWND
 	SELECT * FROM   
 	customers 
 	WHERE  country = 'Brazil';
+
+	SELECT * FROM   
+	customers 
+	WHERE  country <> 'Mexico';
+
 use AdventureWorks2014
 --OPERADOR AND
 	SELECT  b.firstname,        
@@ -78,7 +83,7 @@ FROM   person.personphone AS ph        
 	   WHERE  ph.phonenumber LIKE '415%' 
 ORDER  BY p.lastname;
 
---OPERADOR LIKE CORINGA []
+--OPERADOR LIKE CORINGA [] nomes que começam com C ou S e logo depois he mais alguma coisa
 
 	SELECT 	businessentityid,        
 			firstname,        
@@ -86,14 +91,14 @@ ORDER  BY p.lastname;
 			FROM   person.person 
 			WHERE  firstname LIKE '[CS]he%';
 
---LIKE CORINGA
+--LIKE CORINGA começa com Zh depois tem a ou e e termina com ng:
 		SELECT  lastname,        
 				firstname 
 		FROM   person.person 
 		WHERE  lastname LIKE 'Zh[ae]ng' 
 		ORDER  BY lastname ASC,firstname ASC;
 
---OPERADOR NOT
+--OPERADOR NOT: todos os produtos que os custos não sejam menores que 400
 		SELECT  productid,        
 				NAME,        
 				color,        
@@ -114,7 +119,7 @@ ORDER  BY p.lastname;
 		AND ( shift = 'Evening' OR shift = 'Night' );
 
 use AdventureWorks2014
---OPERADOR IS NULL
+--OPERADOR IS NULL: trazer todas as pessoas que o middlename é nulo
 		SELECT  lastname,        
 				firstname,        
 				MiddleName 
@@ -123,7 +128,7 @@ use AdventureWorks2014
 
 	
 
---OPERADOR IS NOT NULL
+--OPERADOR IS NOT NULL : pessoas que possuem middlename
 		SELECT  lastname,        
 				firstname,        
 				MiddleName 
@@ -131,8 +136,8 @@ use AdventureWorks2014
 		WHERE  MiddleName IS NOT NULL; 
 
 use NORTHWND
---OPERADOR HAVING 
-	SELECT Count(CustomerId),        
+--OPERADOR HAVING : agrupar por país que tenham mais de 5 clientes cadastrados na base
+	SELECT Count(CustomerId) as total_pais,        
 		   country 
 		   FROM   customers 
 		   GROUP  BY country HAVING Count(CustomerId) < 5
@@ -143,7 +148,7 @@ use NORTHWND
 		FROM   orders        
 		INNER JOIN employees                
 			ON orders.employeeid = employees.employeeid 
-		--WHERE  lastname = 'Davolio' OR lastname = 'Fuller' 
+		WHERE  lastname = 'Davolio' OR lastname = 'Fuller' 
 		GROUP  BY lastname HAVING Count(orders.orderid) > 25; 
 
 
