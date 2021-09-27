@@ -14,3 +14,5 @@ https://docs.microsoft.com/pt-br/sql/t-sql/language-elements/logical-operators-t
 
 Instruções DML
 https://docs.microsoft.com/pt-br/sql/t-sql/queries/queries?redirectedfrom=MSDN&view=sql-server-ver15
+Instruções DDL
+https://docs.microsoft.com/pt-br/previous-versions/sql/sql-server-2012/ff848799(v=sql.110)?redirectedfrom=MSDN
