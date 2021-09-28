@@ -23,3 +23,6 @@ https://social.technet.microsoft.com/wiki/contents/articles/34477.sql-server-com
 
 Instruções TCL
 https://social.technet.microsoft.com/wiki/contents/articles/34477.sql-server-commands-dml-ddl-dcl-tcl.aspx#Transaction_Control_Language_TCL
+
+Subquerys T-SQL
+https://docs.microsoft.com/pt-br/previous-versions/sql/sql-server-2008-r2/ms189575(v=sql.105)?redirectedfrom=MSDN
