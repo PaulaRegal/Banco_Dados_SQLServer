@@ -1,0 +1,24 @@
+--criando de teste
+create table cadastro
+(
+ nome varchar(50) not null,
+ docto varchar(20) not null
+ )
+
+--INICIA TRANSAÇÃO
+BEGIN TRANSACTION 
+
+--INSERE REGISTROS
+INSERT INTO cadastro VALUES      ('Andre', '12341244') 
+INSERT INTO cadastro VALUES      ('Joao',  '12341248') 
+INSERT INTO cadastro VALUES      ('Pedro', '12341246') 
+
+--SELECT DOS REGISTRO INSERIDOS
+SELECT * FROM   cadastro 
+
+--RETORNA TABELA NO ESTADO ANTERIOR DO BEGIN TRANSACTION(neste caso, tabela estará vazia)
+ROLLBACK 
+
+--EFETIVA AS INFORMACOES NA TABELAS DO BANCO DE DADOS  E ENCERRA A TRANSAÇÃO, NESTE CASO, 
+--SE QUISESSE UM ROLLBACK TERIA QUE COMEÇAR NOVAMENTE PELO BEGIN:
+COMMIT TRANSACTION
