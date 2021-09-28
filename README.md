@@ -20,3 +20,6 @@ https://docs.microsoft.com/pt-br/previous-versions/sql/sql-server-2012/ff848799(
 
 Instruções DCL
 https://social.technet.microsoft.com/wiki/contents/articles/34477.sql-server-commands-dml-ddl-dcl-tcl.aspx#Data_Control_Language_DCL
+
+Instruções TCL
+https://social.technet.microsoft.com/wiki/contents/articles/34477.sql-server-commands-dml-ddl-dcl-tcl.aspx#Transaction_Control_Language_TCL
