@@ -26,3 +26,9 @@ https://social.technet.microsoft.com/wiki/contents/articles/34477.sql-server-com
 
 Subquerys T-SQL
 https://docs.microsoft.com/pt-br/previous-versions/sql/sql-server-2008-r2/ms189575(v=sql.105)?redirectedfrom=MSDN
+
+Funções de agregação (Transact-SQL)
+https://docs.microsoft.com/pt-br/sql/t-sql/functions/aggregate-functions-transact-sql?redirectedfrom=MSDN&view=sql-server-ver15
+
+SELECT – GROUP BY – Transact-SQL
+https://docs.microsoft.com/pt-br/sql/t-sql/queries/select-group-by-transact-sql?view=sql-server-2017
