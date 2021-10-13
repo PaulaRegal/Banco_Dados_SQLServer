@@ -38,3 +38,6 @@ https://docs.microsoft.com/pt-br/sql/t-sql/functions/ranking-functions-transact-
 
 Funções lógicas (Transact-SQL)
 https://docs.microsoft.com/pt-br/previous-versions/sql/sql-server-2014/hh213226(v=sql.120)?redirectedfrom=MSDN
+
+Funções matemáticas (Transact-SQL)
+https://docs.microsoft.com/pt-br/sql/t-sql/functions/mathematical-functions-transact-sql?redirectedfrom=MSDN&view=sql-server-ver15
