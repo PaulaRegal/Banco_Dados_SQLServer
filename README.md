@@ -41,3 +41,6 @@ https://docs.microsoft.com/pt-br/previous-versions/sql/sql-server-2014/hh213226(
 
 Funções matemáticas (Transact-SQL)
 https://docs.microsoft.com/pt-br/sql/t-sql/functions/mathematical-functions-transact-sql?redirectedfrom=MSDN&view=sql-server-ver15
+
+Funções de conversão (Transact-SQL)
+https://docs.microsoft.com/pt-br/sql/t-sql/functions/conversion-functions-transact-sql?redirectedfrom=MSDN&view=sql-server-ver15
