@@ -44,3 +44,6 @@ https://docs.microsoft.com/pt-br/sql/t-sql/functions/mathematical-functions-tran
 
 Funções de conversão (Transact-SQL)
 https://docs.microsoft.com/pt-br/sql/t-sql/functions/conversion-functions-transact-sql?redirectedfrom=MSDN&view=sql-server-ver15
+
+Funções de cadeia de caracteres (Transact-SQL)
+https://docs.microsoft.com/pt-br/sql/t-sql/functions/string-functions-transact-sql?redirectedfrom=MSDN&view=sql-server-ver15
