@@ -35,3 +35,6 @@ https://docs.microsoft.com/pt-br/sql/t-sql/queries/select-group-by-transact-sql?
 
 Funções de classificação (Transact-SQL)
 https://docs.microsoft.com/pt-br/sql/t-sql/functions/ranking-functions-transact-sql?redirectedfrom=MSDN&view=sql-server-ver15
+
+Funções lógicas (Transact-SQL)
+https://docs.microsoft.com/pt-br/previous-versions/sql/sql-server-2014/hh213226(v=sql.120)?redirectedfrom=MSDN
