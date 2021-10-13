@@ -32,3 +32,6 @@ https://docs.microsoft.com/pt-br/sql/t-sql/functions/aggregate-functions-transac
 
 SELECT – GROUP BY – Transact-SQL
 https://docs.microsoft.com/pt-br/sql/t-sql/queries/select-group-by-transact-sql?view=sql-server-2017
+
+Funções de classificação (Transact-SQL)
+https://docs.microsoft.com/pt-br/sql/t-sql/functions/ranking-functions-transact-sql?redirectedfrom=MSDN&view=sql-server-ver15
