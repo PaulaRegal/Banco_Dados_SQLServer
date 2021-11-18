@@ -47,3 +47,9 @@ https://docs.microsoft.com/pt-br/sql/t-sql/functions/conversion-functions-transa
 
 Funções de cadeia de caracteres (Transact-SQL)
 https://docs.microsoft.com/pt-br/sql/t-sql/functions/string-functions-transact-sql?redirectedfrom=MSDN&view=sql-server-ver15
+
+CASE (Transact-SQL)
+https://docs.microsoft.com/pt-br/sql/t-sql/language-elements/case-transact-sql?view=sql-server-ver15
+
+NULLIF (Transact-SQL)
+https://docs.microsoft.com/pt-br/sql/t-sql/language-elements/nullif-transact-sql?redirectedfrom=MSDN&view=sql-server-ver15
