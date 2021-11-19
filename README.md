@@ -53,3 +53,17 @@ https://docs.microsoft.com/pt-br/sql/t-sql/language-elements/case-transact-sql?v
 
 NULLIF (Transact-SQL)
 https://docs.microsoft.com/pt-br/sql/t-sql/language-elements/nullif-transact-sql?redirectedfrom=MSDN&view=sql-server-ver15
+
+CREATE VIEW (Transact-SQL)
+https://docs.microsoft.com/pt-br/sql/t-sql/statements/create-view-transact-sql?view=sql-server-ver15
+
+BULK INSERT (Transact-SQL)
+https://docs.microsoft.com/pt-br/sql/t-sql/statements/bulk-insert-transact-sql?redirectedfrom=MSDN&view=sql-server-ver15
+
+Utilitário bcp
+https://docs.microsoft.com/pt-br/sql/tools/bcp-utility?view=sql-server-ver15&redirectedfrom=MSDN&viewFallbackFrom=sql-server-2014
+
+IF...ELSE (Transact-SQL)
+https://docs.microsoft.com/pt-br/sql/t-sql/language-elements/if-else-transact-sql?view=sql-server-ver15
+
+
