@@ -66,4 +66,7 @@ https://docs.microsoft.com/pt-br/sql/tools/bcp-utility?view=sql-server-ver15&red
 IF...ELSE (Transact-SQL)
 https://docs.microsoft.com/pt-br/sql/t-sql/language-elements/if-else-transact-sql?view=sql-server-ver15
 
+WHILE (Transact-SQL)
+https://docs.microsoft.com/pt-br/sql/t-sql/language-elements/while-transact-sql?view=sql-server-ver15
+
 
