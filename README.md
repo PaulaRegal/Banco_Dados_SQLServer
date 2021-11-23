@@ -69,4 +69,8 @@ https://docs.microsoft.com/pt-br/sql/t-sql/language-elements/if-else-transact-sq
 WHILE (Transact-SQL)
 https://docs.microsoft.com/pt-br/sql/t-sql/language-elements/while-transact-sql?view=sql-server-ver15
 
+Cursores (Transact-SQL)
+https://docs.microsoft.com/pt-br/sql/t-sql/language-elements/cursors-transact-sql?view=sql-server-ver15
+
+
 
