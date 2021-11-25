@@ -80,3 +80,6 @@ https://docs.microsoft.com/pt-br/sql/t-sql/statements/create-procedure-transact-
 
 CREATE TRIGGER (Transact-SQL)
 https://docs.microsoft.com/pt-br/sql/t-sql/statements/create-trigger-transact-sql?view=sql-server-ver15
+
+Backup Overview (SQL Server)
+https://docs.microsoft.com/pt-br/sql/relational-databases/backup-restore/backup-overview-sql-server?view=sql-server-ver15
