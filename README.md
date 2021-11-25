@@ -78,4 +78,5 @@ https://docs.microsoft.com/pt-br/sql/t-sql/statements/create-function-transact-s
 CREATE PROCEDURE (Transact-SQL)
 https://docs.microsoft.com/pt-br/sql/t-sql/statements/create-procedure-transact-sql?view=sql-server-ver15
 
-
+CREATE TRIGGER (Transact-SQL)
+https://docs.microsoft.com/pt-br/sql/t-sql/statements/create-trigger-transact-sql?view=sql-server-ver15
