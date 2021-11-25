@@ -83,3 +83,9 @@ https://docs.microsoft.com/pt-br/sql/t-sql/statements/create-trigger-transact-sq
 
 Backup Overview (SQL Server)
 https://docs.microsoft.com/pt-br/sql/relational-databases/backup-restore/backup-overview-sql-server?view=sql-server-ver15
+
+UPDATE STATISTICS (Transact-SQL)
+https://docs.microsoft.com/pt-br/sql/t-sql/statements/update-statistics-transact-sql?view=sql-server-ver15
+
+Servidores vinculados (Mecanismo de Banco de Dados)
+https://docs.microsoft.com/pt-br/sql/relational-databases/linked-servers/linked-servers-database-engine?view=sql-server-ver15
